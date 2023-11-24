@@ -1,0 +1,31 @@
+.Login-Box{
+    display: flex;
+    justify-content: center;
+
+}
+.container-1{
+    width:40%;
+    /* border: 2px solid red; */
+    height: 100vh;
+    }
+.container-2{
+width:40%;
+/* border: 2px solid red; */
+height: 100vh;
+}
+.login-img{
+    height: 100vh;
+    display: block;
+}
+
+.input-box{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 20px;
+}
+
+.form-btn{
+    background-color: blue;
+    color: white;
+}

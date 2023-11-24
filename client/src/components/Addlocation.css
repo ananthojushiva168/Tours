@@ -1,0 +1,40 @@
+.registration-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+/* input[type="file"] {
+    width: 89px;
+    } */
+
+.hideForm{
+    display: None;
+}    
+
+.addlocForm{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 400px;
+}   
+.addlocForm input{
+    height: 30px;
+}
+.ifield{
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+.secondField{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-add{
+    width: 150px;
+    padding: 2% 3%;
+    background-color: blue;
+    color: white;
+    border: none;
+}

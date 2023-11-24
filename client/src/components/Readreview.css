@@ -1,0 +1,23 @@
+.ReadReview{
+    position: relative;
+}
+.editReview{
+    position: absolute;
+    background: white;
+    top: 14%;
+    left: 5%;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.closeReview-btn{
+    position: absolute;
+    right: 8%;
+    top: -8%;
+}
+
+.btnclose{
+    position: absolute;
+    top: 7%;
+    right: 13%;
+}
